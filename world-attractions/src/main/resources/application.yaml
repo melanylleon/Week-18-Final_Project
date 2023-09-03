@@ -1,0 +1,15 @@
+spring:
+   datasource:
+      username: world_attractions
+      password: world_attractions
+      url: jdbc:mysql://localhost:3306/world_attractions
+      
+   jpa:
+     hibernate:
+       ddl-auto: update
+     show-sql: true
+     defer-datasource-initialization: true
+     
+   sql:
+     init:
+       mode: never

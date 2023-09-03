@@ -1,0 +1,30 @@
+{
+	"attractionName": "Colosseum",
+	"description": "An amphitheater built 2,000 years ago. It is best known for the gladiator games that were seen by up to 50,000 spectators.",
+	"ticketPrice": "€16.00",
+	"visitorsYearly": "7,000,000"
+}
+
+{
+	"attractionName": "Empire State Building",
+	"description": "An Art Deco skyscraper that was once the world's tallest building. It is known for its architecture and is considered a symbol of New York City.",
+	"ticketPrice": "Adult:$45  Child:$25 Senior:$30",
+	"visitorsYearly": "4,000,000"
+}
+
+{
+	"attractionName": "Walt Disney World",
+	"description": "A theme park that has rides inspired by the Walt Disney Company films.",
+	"ticketPrice": "Starting at Adult:$129  Child:$124",
+	"visitorsYearly": "58,000,000"
+}
+
+{
+	"attractionName": "Christ The Redeemer",
+	"description": "The statue of Jesus Christ on the Corcovado Mountain. It offers incredible views of the city below.",
+	"ticketPrice": "Adult:$20  Child:$13 Senior:$6",
+	"visitorsYearly": "2,000,000"
+}
+	
+
+
