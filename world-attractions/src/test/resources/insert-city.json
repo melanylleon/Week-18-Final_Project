@@ -1,34 +1,38 @@
-{
-  "cityName": "Rome",
-  "country": "Italy",
-  "language": "Italian",
-  "currency": "Euro",
-  "safetyLevel": "2"
-}
+[
 
-{
-  "cityName": "New York City",
-  "country": "United States of America",
-  "language": "English",
-  "currency": "Dollars",
-  "safetyLevel": "3"
-}
+	{
+	  "cityName": "Rome",
+	  "country": "Italy",
+	  "language": "Italian",
+	  "currency": "Euro",
+	  "safetyLevel": "2"
+	},
+	
+	{
+	  "cityName": "New York City",
+	  "country": "United States of America",
+	  "language": "English",
+	  "currency": "Dollars",
+	  "safetyLevel": "3"
+	},
+	
+	{
+	  "cityName": "Orlando",
+	  "country": "United States of America",
+	  "language": "English",
+	  "currency": "Dollars",
+	  "safetyLevel": "2"
+	},
+	
+	{
+	  "cityName": "Rio de Janeiro",
+	  "country": "Brazil",
+	  "language": "Portuguese",
+	  "currency": "Real",
+	  "safetyLevel": "2"
+	}
 
-{
-  "cityName": "Orlando",
-  "country": "United States of America",
-  "language": "English",
-  "currency": "Dollars",
-  "safetyLevel": "2"
-}
-
-{
-  "cityName": "Rio de Janeiro",
-  "country": "Brazil",
-  "language": "Portuguese",
-  "currency": "Real",
-  "safetyLevel": "2"
-}
+]
 
 
 

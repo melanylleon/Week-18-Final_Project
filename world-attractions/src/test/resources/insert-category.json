@@ -1,7 +1,9 @@
-{
-	"categoryName": "Monuments"
-}
+[
+	{
+		"categoryName": "Monuments"
+	},
 
-{
-	"categoryName": "Amusement Parks"
-}
+	{
+		"categoryName": "Amusement Parks"
+	}
+]
